@@ -55,8 +55,6 @@ After merging the datasets, new features such as the **number of genres** per mo
 |------|-------------|
 | `Midterm.ipynb` | Jupyter notebook with full EDA |
 | `Movie_Genre_Overview_EDA_Presentation.pptx` | PowerPoint deck with results & insights |
-| `archive.zip` *(optional)* | Raw dataset if redistribution is allowed |
-
 ---
 
 ## 🧪 Tools & Libraries
